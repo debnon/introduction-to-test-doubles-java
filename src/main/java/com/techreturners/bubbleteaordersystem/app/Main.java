@@ -7,5 +7,4 @@ public class Main {
         System.out.println("I like Bubble Tea! " +
                 "This is a slimmed down version of a Bubble Tea Order System!");
     }
-
 }
